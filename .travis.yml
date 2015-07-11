@@ -15,6 +15,6 @@ deploy:
   provider: heroku
   api_key:
     secure: di5Ka9TvmGpy1uK3Ooj/6wXFEOxg+BVoGQuC9+r/ZKkjDTLy75KUhXVI0ZgISQYpgqre2F20wsg1T5PePh8ALWEVogK5SqqwatrJ2mcFktKGhWcGizRt2uUWjNzX6IhdmmVe1zYv0ocJ7CJc+xV1o8V+XXhGyS4+6221xCtiioHiHSUOcfkjS0jMYU4a+TGIw6bAes7+NVR5euxiZINKgwVSIzPaO6lzWkjpsggOdBYJmlScdlyIguTEdg29itk+Jfc8z7oW/N95URVGKapBXbfyWkRkZaQQacaQJQczzcvSf56y5sJxAWpTW1zAXKleNLcrzKlp9f3aWoLLEoJ0IgBIVTgZYxXkbKN+JazmBSH6+rxKacQHL7+8C5O00NwU6wcoiFT5nA9g9wTuGLBZUeKWIaUnJyyPUNzcufoZMrZMnIqLpz3gq14dT4Gm6k/dN3D5tOfWZyXjH55l55U+SKJvLIPXHONZvRDKfb8bAXbzC1G6lMjJ308FZxt1yqgdb8EyrvBxRlyE2KZTXKWlNn/kCtD/nzisDr4mQ3ZgADcjT8rhQRYHtkFXwD+ddz03BEaNaS5VkL2D27if2YkFgQlF2zovLGaHnrF4GIr/nVDIJviHRMW4SY3bT+9aaEkYp8Hw+T2L2jV0pg8ZCgpWnQ8Kicsh8WMJNIOusykqse4=
-  app: hey-listen
+  app: azmaria
   on:
     repo: louiedp3/angular-practice
